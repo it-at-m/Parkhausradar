@@ -11,7 +11,7 @@
     "geodata": "node scripts/build-geodata.mjs"
   },
   "dependencies": {
-    "maplibre-gl": "^4.7.1"
+    "maplibre-gl": "^6.0.0"
   },
   "devDependencies": {
     "typescript": "^5.4.5",
