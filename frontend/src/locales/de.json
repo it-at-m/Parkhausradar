@@ -1,10 +1,5 @@
 {
   "app": {
     "name": "Parkhausradar"
-  },
-  "common": {
-    "actions": {
-      "close": "Schließen"
-    }
   }
 }
